@@ -1,3 +1,5 @@
+**[简体中文](README.md)** | **English** | **[日本語](README-JP.MD)**
+
 # awesome
 A list of ecosystem resources related to Ikaros.
 
