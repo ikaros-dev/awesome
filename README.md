@@ -1,3 +1,4 @@
+**简体中文** | **[English](README-EN.MD)** | **[日本語](README-JP.MD)**
 # awesome
 与 Ikaros 相关的周边生态资源列表
 
