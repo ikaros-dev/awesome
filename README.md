@@ -16,5 +16,5 @@
 - [plugin-bgmtv](https://github.com/ikaros-dev/plugin-bgmtv) : [bgmtv](https://bgm.tv/) 插件
 - [plugin-local-files-import](https://github.com/ikaros-dev/plugin-local-files-import): 本地文件批量导入插件
 - [plugin-jellyfin](https://github.com/ikaros-dev/plugin-jellyfin): jellyfin插件
-- [plugin-baidupan](https://github.com/ikaros-dev/plugin-baidupan): 百度网盘插件
-- [plugin-mikan](https://github.com/ikaros-dev/plugin-mikan): [蜜柑计划](https://mikanime.tv/)插件
+- [plugin-baidupan](https://github.com/ikaros-dev/plugin-baidupan): 百度网盘插件（实验性质，不推荐使用）
+- [plugin-mikan](https://github.com/ikaros-dev/plugin-mikan): [蜜柑计划](https://mikanime.tv/)插件(目前不推荐使用)
