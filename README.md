@@ -18,3 +18,4 @@
 - [plugin-jellyfin](https://github.com/ikaros-dev/plugin-jellyfin): jellyfin插件
 - [plugin-baidupan](https://github.com/ikaros-dev/plugin-baidupan): 百度网盘插件（实验性质，不推荐使用）
 - [plugin-mikan](https://github.com/ikaros-dev/plugin-mikan): [蜜柑计划](https://mikanime.tv/)插件(目前不推荐使用)
+- [plugin-alist](https://github.com/ikaros-dev/plugin-alist): [AList](https://alist.nn.ci/)插件，支持导入alsit文件到ikaros附件
