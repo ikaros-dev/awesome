@@ -21,3 +21,4 @@
 - [plugin-baidupan](https://github.com/ikaros-dev/plugin-baidupan): 百度网盘插件（实验性质，不推荐使用）
 - [plugin-mikan](https://github.com/ikaros-dev/plugin-mikan): [蜜柑计划](https://mikanime.tv/)插件(目前不推荐使用)
 - [plugin-openlist](https://github.com/ikaros-dev/plugin-openlist): [OpenList](https://doc.oplist.org/)插件，支持导入openlsit文件URL到ikaros附件
+- [plugin-pan115](https://github.com/ikaros-dev/plugin-pan115): A pan115 plugin for ikaros. | 115网盘插件，提供对115网盘的驱动附件挂载。
